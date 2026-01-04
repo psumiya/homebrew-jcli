@@ -7,7 +7,7 @@ class Jcli < Formula
   sha256 "132de7b62340934215b84fa935b9258edd4d01fe32b105d59f04811fa9d655ee"
 
   def install
-    bin.install "bin/jcli"
+    bin.install "jcli"
   end
 
   test do
