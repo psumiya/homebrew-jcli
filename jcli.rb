@@ -4,7 +4,7 @@ class Jcli < Formula
   version "0.0.2-beta"
 
   url "https://github.com/psumiya/jcli/releases/download/v0.0.2-beta/jcli-0.0.2-beta-osx-x86_64.tar.gz"
-  sha256 "0aa4c07bffd6a5d4629ad3d7fb9e9870e3315128dc4ef41dabb033fd5edd5dd1"
+  sha256 "2aeb09de61e915fcba85136b7f039679eff4e64985f8f5cc19f540cd03822840"
 
   def install
     bin.install "jcli"
