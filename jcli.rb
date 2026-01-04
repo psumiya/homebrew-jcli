@@ -1,10 +1,10 @@
 class Jcli < Formula
   desc "Sugared wrappers to execute methods from JDK and JVM-based libraries from the command line"
   homepage "https://github.com/psumiya/jcli"
-  version "0.0.1-beta"
+  version "0.0.2-beta"
 
-  url "https://github.com/psumiya/jcli/releases/download/v0.0.1-beta/jcli-0.0.1-beta-osx-x86_64.tar.gz"
-  sha256 "5db3f22e97474ec8ccd56e16968eb344b512155b66ec34c3a07ba17f6bf07ebc"
+  url "https://github.com/psumiya/jcli/releases/download/v0.0.2-beta/jcli-0.0.2-beta-osx-x86_64.tar.gz"
+  sha256 "0aa4c07bffd6a5d4629ad3d7fb9e9870e3315128dc4ef41dabb033fd5edd5dd1"
 
   def install
     bin.install "jcli"
